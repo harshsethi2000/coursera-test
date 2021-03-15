@@ -7,7 +7,7 @@
 1. [Generic Singly Linked List](#generic-singly-linked-list)
 2. [Generic Doubly Linked List](#generic-doubly-linked-list)
 3. [Generic Stack](#generic-stack)
-4. [Generic Queue]()
+4. [Generic Queue](#generic-queue)
     
 
 ## **Generic Singly Linked List**
