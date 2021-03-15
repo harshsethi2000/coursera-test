@@ -124,7 +124,7 @@ int main()
 ```
 **To Compile the above code using mingw -**
 
-    gcc example.c -o example.exe -I ..\include -L..\lib -lhs
+    gcc singly.c -o singly.exe -I ..\include -L..\lib -lhs
     //hs is name of the library
 
 
